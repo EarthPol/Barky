@@ -1,0 +1,12 @@
+name: Barky
+version: '${project.version}'
+main: com.earthpol.barky.Barky
+api-version: '1.20'
+folia-supported: true
+commands:
+  bark:
+    description: Bark like a dog person.
+    usage: /bark <args>
+  barky:
+    description: Tells you about Barky.
+    usage: /barky
